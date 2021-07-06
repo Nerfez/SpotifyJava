@@ -1,0 +1,11 @@
+package simulationplaylist;
+
+
+public class Main {
+
+    public static void main(String[] args) {
+        IHMPrincipale i = new IHMPrincipale();
+        i.setVisible(true);
+    }
+    
+}
